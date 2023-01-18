@@ -8,3 +8,5 @@ Currently Working On|FIRST Robotics & [ChatGPT2Midi](https://github.com/spcoughl
 Contact Me!|56spc56@gmail.com
 
 ![Metrics](/github-metrics.svg)
+
+<img src="https://komarev.com/ghpvc/?username=spcoughlin&style=flat-square&color=blue" alt=""/>
